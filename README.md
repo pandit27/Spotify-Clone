@@ -1,3 +1,3 @@
 # Spotify-Clone
 
-This website has a lots of errors...I will update this soon
+This is a spotify clone made using pure html, css and javascript.
